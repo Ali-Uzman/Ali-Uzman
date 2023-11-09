@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- 👀 I’m Uzman, working as Data Engineer Intern.
+- 👀 I’m Uzman, working as Big Data & DevOps Engineer.
 - 💻 I’m tech enthusiats and love writing about it.
-- 👨‍🎓 I’m undergraduate student in my final year of Software Engineering!
-- 🌱 I’m currently learning about Data Science, Machine Learning & AI
+- 👨‍🎓 I’m 2023 graduate student in Software Engineering!
+- 🌱 I’m currently learning about Big Data, DevOps & AI
 - 💞 Interests: Writing, creating content, drawing and cricket
-- 💬 Ask me about Data Science, web dev & open source
+- 💬 Ask me about Big Data, DevOps & open source
 - 😄 Pronouns: he/him
 
 
